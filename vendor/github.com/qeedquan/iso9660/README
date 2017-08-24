@@ -1,0 +1,2 @@
+A Go package for reading ISO9660 filesystems.
+Extensions such as Joliet or Rock Ridge is not implemented.
